@@ -25,7 +25,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [Boruto : Naruto The Movie](https://anilist.co/anime/21220/BORUTO-NARUTO-THE-MOVIE/) | |
 | [Blue Spring Ride](https://anilist.co/anime/20596/Ao-Haru-Ride/) | |
-
+| [Blue Lock](https://anilist.co/anime/137822/Blue-Lock/) | |
 
 ### C
 
