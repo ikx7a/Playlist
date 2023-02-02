@@ -35,7 +35,7 @@
 | [Classroom of the Elite Season 2](https://anilist.co/anime/145545/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-2nd-Season/) | 🌟 |
 | [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man/) | 🌟 |
 | [Charlotte](https://anilist.co/anime/20997/Charlotte/) | 🌟 |
-
+| [Chivalry of a Failed Knight](https://anilist.co/anime/21092/Rakudai-Kishi-no-Cavalry/) | |
 
 ### D
 
