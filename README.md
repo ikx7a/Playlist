@@ -41,7 +41,7 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| [Darling in the FranXX](https://anilist.co/anime/99423/Darling-in-the-Franxx/) | 🌟 |
+| [Darling in the FranXX](https://anilist.co/anime/99423/Darling-in-the-Franxx/) | ❤️ |
 | [Death Note](https://anilist.co/anime/1535/DEATH-NOTE/) | 🌟 |
 | [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba/) | 🌟 |
 | [Death March to the Parallel World Rhapsody](https://anilist.co/anime/97907/Death-March-Kara-Hajimaru-Isekai-Kyousoukyoku/) | |
