@@ -126,6 +126,7 @@
 | [Noragami](https://anilist.co/anime/20447/Noragami/) | |
 | [Noragami Aragoto](https://anilist.co/anime/21128/Noragami-Aragoto/) | |
 
+
 ### O
 
 | Name | Favourite |
@@ -133,17 +134,26 @@
 | [One Punch Man](https://anilist.co/anime/21087/One-Punch-Man/) | 🌟 |
 | [One Punch Man 2](https://anilist.co/anime/97668/One-Punch-Man-2/) | 🌟 |
 
+
 ### P
 
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | []() | |
+
 
 ### Q
 
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | []() | |
+
 
 ### R
 
-| []() | |
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
+
 
 ### S
 
