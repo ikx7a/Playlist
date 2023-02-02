@@ -124,7 +124,7 @@
 | [Naruto: Classic](https://anilist.co/anime/20/NARUTO/) | 🌟 |
 | [Naruto: Shippuuden](https://anilist.co/anime/1735/NARUTO-Shippuuden/) | 🌟 |
 | [Noragami](https://anilist.co/anime/20447/Noragami/) | |
-| [Noragami Aragoto(https://anilist.co/anime/21128/Noragami-Aragoto/) | |
+| [Noragami Aragoto](https://anilist.co/anime/21128/Noragami-Aragoto/) | |
 
 ### O
 
