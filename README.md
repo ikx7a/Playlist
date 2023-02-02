@@ -155,17 +155,19 @@
 | [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308/Sword-Art-Online-Alicization--War-of-Underworld-Part-2/) | ❤️ |
 | [Spy x Family](https://anilist.co/anime/140960/SPYFAMILY/) | 🌟 |
 | [Spy X Family Part 2](https://anilist.co/anime/142838/SPYFAMILY-Part-2/) | 🌟 |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
+| [Shikimori's Not Just A Cutie](https://anilist.co/anime/127911/Kawaii-dake-ja-Nai-Shikimorisan/) | ❤️ |
+| [School Live!](https://anilist.co/anime/20754/Gakkou-Gurashi/) | |
+| [Shinobi no Ittoki](https://anilist.co/anime/145604/Shinobi-no-Ittoki/) | |
+
+
+### T
+
+| [Tonikaku Kawaii](https://anilist.co/anime/116267/Tonikaku-Kawaii/) | 🌟 |
+| [The Last: Naruto The Movie](https://anilist.co/anime/16870/THE-LAST-NARUTO-THE-MOVIE/) | |
+| [Tsurezure Children](https://anilist.co/anime/98291/Tsurezure-Children/) | |
+| [The Moment You Fall in Love](https://anilist.co/anime/21757/Suki-ni-Naru-Sono-Shunkan-wo-Kokuhaku-Jikkou-Iinkai/) | |
+| [The Quintessential Quintuplets](https://anilist.co/anime/103572/Gotoubun-no-Hanayome/) | 🌟 |
+| [The Quintessential Quintuplets 2](https://anilist.co/anime/109261/Gotoubun-no-Hanayome-/) | 🌟 |
 | []() | |
 | []() | |
 | []() | |
