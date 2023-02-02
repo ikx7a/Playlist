@@ -80,7 +80,7 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| [I Want to Eat Your Pancreas](https://anilist.co/anime/99750/Kimi-no-Suizou-wo-Tabetai/) | 🌟 |
+| [I Want to Eat Your Pancreas](https://anilist.co/anime/99750/Kimi-no-Suizou-wo-Tabetai/) | ❤️ |
 | [In/Spectre](https://anilist.co/anime/107201/Kyokou-Suiri/) | |
 
 
@@ -133,7 +133,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [One Punch Man](https://anilist.co/anime/21087/One-Punch-Man/) | 🌟 |
 | [One Punch Man 2](https://anilist.co/anime/97668/One-Punch-Man-2/) | 🌟 |
-
+| [One Piece Film: Red](https://anilist.co/anime/141902/ONE-PIECE-FILM-RED/) | |
 
 ### P
 
@@ -153,10 +153,13 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
+| []() | |
 
 
 ### S
 
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | [Sword Art Online](https://anilist.co/anime/11757/Sword-Art-Online/) | ❤️ |
 | [Sword Art Online II](https://anilist.co/anime/20594/Sword-Art-Online-II/) | ❤️ |
 | [Sword Art Online Alternative: Gun Gale Online](https://anilist.co/anime/100183/Sword-Art-Online-Alternative-Gun-Gale-Online/) | |
@@ -172,59 +175,68 @@
 
 ### T
 
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | [Tonikaku Kawaii](https://anilist.co/anime/116267/Tonikaku-Kawaii/) | 🌟 |
 | [The Last: Naruto The Movie](https://anilist.co/anime/16870/THE-LAST-NARUTO-THE-MOVIE/) | |
 | [Tsurezure Children](https://anilist.co/anime/98291/Tsurezure-Children/) | |
 | [The Moment You Fall in Love](https://anilist.co/anime/21757/Suki-ni-Naru-Sono-Shunkan-wo-Kokuhaku-Jikkou-Iinkai/) | |
 | [The Quintessential Quintuplets](https://anilist.co/anime/103572/Gotoubun-no-Hanayome/) | 🌟 |
 | [The Quintessential Quintuplets 2](https://anilist.co/anime/109261/Gotoubun-no-Hanayome-/) | 🌟 |
+| [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520/Gotoubun-no-Hanayome-Movie/) | 🌟 |
+| [Tokyo Revengers](https://anilist.co/anime/120120/Tokyo-Revengers/) | 🌟 |
+| [Tokyo Revengers Season 2](https://anilist.co/anime/142853/Tokyo-Revengers-Seiya-Kessenhen/) | 🌟 |
+| [The Daily Life of the Immortal King](https://anilist.co/anime/114121/Xian-Wang-De-Richang-Shenghuo/) | 🌟 |
+| [The Daily Life of the Immortal King Season 2](https://anilist.co/anime/126357/Xian-Wang-De-Richang-Shenghuo-2/) | 🌟 |
+| [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852/Xian-Wang-De-Richang-Shenghuo-3/) | 🌟 |
+| [The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV](https://anilist.co/anime/129874/Kimetsu-no-Yaiba-Mugen-Resshahen-TV/) | ❤️ |
+| [The Greatest Demon Lord Is Reborn as a Typical Nobody](https://anilist.co/anime/130586/Shijou-Saikyou-no-Daimaou-Murabito-A-ni-Tensei-suru/) | |
+
+
+### U
+
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | []() | |
+
+### V
+
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
+
+### W
+
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
+| [Wandering Witch: The Journey of Elaina](https://anilist.co/anime/112609/Majo-no-Tabitabi/) | |
+| [Weathering With You](https://anilist.co/anime/106286/Tenki-no-Ko/) | ❤️ |
+| [Wise Man's Grandchild](https://anilist.co/anime/100112/Kenja-no-Mago/) | |
+
+
+### X
+
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
 | []() | |
 
 
+### Y
+
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
+| []() | |
 
 
+### Z
 
+| Name | Favourite |
+| :-------------------------------------------------------------------: | :-------: |
+| []() | |
 
+<div align="center">
 
+ <sub>Last Update 2 February 2023
+ </sub>
 
-
-
+</div>
