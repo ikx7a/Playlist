@@ -191,7 +191,7 @@
 | [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852/Xian-Wang-De-Richang-Shenghuo-3/) | 🌟 |
 | [The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV](https://anilist.co/anime/129874/Kimetsu-no-Yaiba-Mugen-Resshahen-TV/) | ❤️ |
 | [The Greatest Demon Lord Is Reborn as a Typical Nobody](https://anilist.co/anime/130586/Shijou-Saikyou-no-Daimaou-Murabito-A-ni-Tensei-suru/) | |
-
+| [The Irregular at Magic High School](https://anilist.co/anime/20458/Mahouka-Koukou-no-Rettousei/) | 🌟 |
 
 ### U
 
