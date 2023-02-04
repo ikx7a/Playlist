@@ -153,7 +153,8 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| []() | |
+| [Rent-a-Girlfriend](https://anilist.co/anime/113813/Kanojo-Okarishimasu/) |  |
+| [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410/Kanojo-Okarishimasu-2nd-Season/) ||
 
 
 ### S
