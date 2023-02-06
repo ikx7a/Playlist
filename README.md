@@ -18,6 +18,7 @@
 | [A Couple of Cuckoos](https://anilist.co/anime/132052/Kakkou-no-Iinazuke/) | |
 | [Armed Girl's Machiavellism](https://anilist.co/anime/21851/Busou-Shoujo-Machiavellianism/) | |
 | [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668/Arifureta-Shokugyou-de-Sekai-Saikyou/) | |
+| [Arifureta Shokugyou de Sekai Saikyou 2nd Season](https://anilist.co/anime/112323/Arifureta-Shokugyou-de-Sekai-Saikyou-2nd-Season/) | |
 
 
 ### B
