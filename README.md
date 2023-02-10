@@ -141,6 +141,11 @@
 | [One Punch Man](https://anilist.co/anime/21087/One-Punch-Man/) | 🌟 |
 | [One Punch Man 2](https://anilist.co/anime/97668/One-Punch-Man-2/) | 🌟 |
 | [One Piece Film: Red](https://anilist.co/anime/141902/ONE-PIECE-FILM-RED/) | |
+| [Overlord](https://anilist.co/anime/20832/Overlord/) | |
+| [Overlord II](https://anilist.co/anime/98437/Overlord-II/) | |
+| [Overlord III](https://anilist.co/anime/101474/Overlord-III/) | |
+| [Overlord IV](https://anilist.co/anime/133844/Overlord-IV/) | |
+
 
 ### P
 
