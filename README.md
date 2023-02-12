@@ -47,6 +47,9 @@
 | [Death Note](https://anilist.co/anime/1535/DEATH-NOTE/) | 🌟 |
 | [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba/) | 🌟 |
 | [Death March to the Parallel World Rhapsody](https://anilist.co/anime/97907/Death-March-Kara-Hajimaru-Isekai-Kyousoukyoku/) | |
+| [Date A Live](https://anilist.co/anime/15583/Date-A-Live/) | |
+| [Date A Live II](https://anilist.co/anime/19163/Date-A-Live-II/) | |
+| [Date A Live III](https://anilist.co/anime/100722/Date-A-Live-III/) | |
 
 
 ### E
@@ -222,7 +225,7 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| []() | |
+| [Vermeil in Gold](https://anilist.co/anime/146210/Kinsou-no-Vermeil-Gakeppuchi-Majutsushi-wa-Saikyou-no-Yakusai-to-Mahou-Sekai-wo-Tsuki-Susumu/) | |
 
 ### W
 
@@ -255,7 +258,7 @@
 
 <div align="center">
 
- <sub>Last Update 10 February 2023
+ <sub>Last Update 12 February 2023
  </sub>
 
 </div>
