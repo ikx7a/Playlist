@@ -96,11 +96,6 @@
 | [Jujutsu Kaisen](https://anilist.co/anime/113415/Jujutsu-Kaisen/) | 🌟 |
 | [Jujutsu Kaisen 0](https://anilist.co/anime/131573/Jujutsu-Kaisen-0/) | |
 
- <div align="centre">
-
-[![ads](https://te.legra.ph/file/8aecab800382a6762547f.jpg)](https://telegram.me/KxWriter)
-
- </div>
 
 ### K
 
@@ -154,7 +149,7 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| []() | |
+| [Plunderer](https://anilist.co/anime/101168/Plunderer/) | |
 
 
 ### Q
@@ -188,11 +183,7 @@
 | [School Live!](https://anilist.co/anime/20754/Gakkou-Gurashi/) | |
 | [Shinobi no Ittoki](https://anilist.co/anime/145604/Shinobi-no-Ittoki/) | |
 
- <div align="centre">
 
-[![ads](https://te.legra.ph/file/8aecab800382a6762547f.jpg)](https://telegram.me/KxWriter)
-
- </div>
 
 ### T
 
@@ -258,7 +249,7 @@
 
 <div align="center">
 
- <sub>Last Update 12 February 2023
+ <sub>Last Update 13 February 2023
  </sub>
 
 </div>
