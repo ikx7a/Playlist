@@ -2,6 +2,15 @@
 
   **My Anime Playlist** </div>
 
+<details>
+
+| Text | Emoji |
+| :--: | :---: |
+| Favourite | 🌟 |
+| Most Favourite | ❤️ |
+
+</details>
+
 ### A
 
 | Name | Favourite |
