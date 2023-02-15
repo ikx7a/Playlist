@@ -121,7 +121,8 @@
 | [Love Me, Love Me Not](https://anilist.co/anime/109125/Omoi-Omoware-Furi-Furare/) | |
 | [Lycoris Recoil](https://anilist.co/anime/143270/Lycoris-Recoil/) | |
 | [Lookism](https://anilist.co/anime/158539/Oemojisangjuui/) | |
-
+| [Love, Chunibyo & Other Delusions!](https://anilist.co/anime/14741/Chuunibyou-demo-Koi-ga-Shitai/) ||
+| [Love, Chunibyo & Other Delusions! 2nd Season: Heart Throb](https://anilist.co/anime/18671/Chuunibyou-demo-Koi-ga-Shitai-Ren/) ||
 
 ### M
 
@@ -262,7 +263,7 @@
 
 <div align="center">
 
- <sub>Last Update 13 February 2023
+ <sub>Last Update 15 February 2023
  </sub>
 
 </div>
