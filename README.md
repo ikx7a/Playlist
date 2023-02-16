@@ -99,6 +99,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [I Want to Eat Your Pancreas](https://anilist.co/anime/99750/Kimi-no-Suizou-wo-Tabetai/) | ❤️ |
 | [In/Spectre](https://anilist.co/anime/107201/Kyokou-Suiri/) | |
+| [I'm Quitting Heroingl](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
 
 
 ### J
@@ -266,7 +267,7 @@
 
 <div align="center">
 
- <sub>Last Update 15 February 2023
+ <sub>Last Update 17 February 2023
  </sub>
 
 </div>
