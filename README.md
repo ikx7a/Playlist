@@ -37,6 +37,8 @@
 | [Boruto : Naruto The Movie](https://anilist.co/anime/21220/BORUTO-NARUTO-THE-MOVIE/) | |
 | [Blue Spring Ride](https://anilist.co/anime/20596/Ao-Haru-Ride/) | |
 | [Blue Lock](https://anilist.co/anime/137822/Blue-Lock/) | |
+| [Buddy Daddies](https://anilist.co/anime/155907/Buddy-Daddies) ||
+
 
 ### C
 
@@ -47,6 +49,7 @@
 | [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man/) | 🌟 |
 | [Charlotte](https://anilist.co/anime/20997/Charlotte/) | 🌟 |
 | [Chivalry of a Failed Knight](https://anilist.co/anime/21092/Rakudai-Kishi-no-Cavalry/) | |
+
 
 ### D
 
