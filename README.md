@@ -144,7 +144,7 @@
 | [Naruto: Shippuuden](https://anilist.co/anime/1735/NARUTO-Shippuuden/) | 🌟 |
 | [Noragami](https://anilist.co/anime/20447/Noragami/) | |
 | [Noragami Aragoto](https://anilist.co/anime/21128/Noragami-Aragoto/) | |
-
+| [Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World](https://anilist.co/anime/137909/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/) | |
 
 ### O
 
@@ -220,6 +220,9 @@
 | [The Irregular at Magic High School](https://anilist.co/anime/20458/Mahouka-Koukou-no-Rettousei/) | 🌟 |
 | [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300/Mahouka-Koukou-no-Rettousei-Raihoushahen/) | |
 | [The Eminence in Shadow](https://anilist.co/anime/130298/Kage-no-Jitsuryokusha-ni-Naritakute/) | |
+| [Tales of Zestiria the X](https://anilist.co/anime/21221/Tales-of-Zestiria-the-Cross/) | |
+| [Tales of Zestiria the Cross 2nd Season](https://anilist.co/anime/97645/Tales-of-Zestiria-the-Cross-2/) | |
+| [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/) ||
 
 
 ### U
@@ -267,7 +270,7 @@
 
 <div align="center">
 
- <sub>Last Update 17 February 2023
+ <sub>Last Update 18 February 2023
  </sub>
 
 </div>
