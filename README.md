@@ -134,7 +134,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [Miss Kobayashi's Dragon Maid](https://anilist.co/anime/21776/Kobayashisan-Chi-no-Maidragon/) | |
 | [Masamune-kun's Revenge](https://anilist.co/anime/21857/Masamunekun-no-Revenge/) | |
-
+| [Myriad colors phantom World](https://anilist.co/anime/21306/Musaigen-no-Phantom-World/) ||
 
 ### N
 
@@ -270,7 +270,7 @@
 
 <div align="center">
 
- <sub>Last Update 18 February 2023
+ <sub>Last Update 19 February 2023
  </sub>
 
 </div>
