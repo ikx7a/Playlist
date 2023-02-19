@@ -223,7 +223,7 @@
 | [Tales of Zestiria the X](https://anilist.co/anime/21221/Tales-of-Zestiria-the-Cross/) | |
 | [Tales of Zestiria the Cross 2nd Season](https://anilist.co/anime/97645/Tales-of-Zestiria-the-Cross-2/) | |
 | [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/) ||
-
+| [Tower of God](https://anilist.co/anime/115230/Kami-no-Tou-Tower-of-God/) ||
 
 ### U
 
