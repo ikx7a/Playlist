@@ -196,7 +196,7 @@
 | [Shikimori's Not Just A Cutie](https://anilist.co/anime/127911/Kawaii-dake-ja-Nai-Shikimorisan/) | ❤️ |
 | [School Live!](https://anilist.co/anime/20754/Gakkou-Gurashi/) | |
 | [Shinobi no Ittoki](https://anilist.co/anime/145604/Shinobi-no-Ittoki/) | |
-
+| [Spirit Chronicles](https://anilist.co/anime/126546/Seirei-Gensouki/) ||
 
 
 ### T
