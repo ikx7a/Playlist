@@ -116,7 +116,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [Komi San Can't Communicate](https://anilist.co/anime/133965/Komisan-wa-Komyushou-desu/) | 🌟 |
 | [Komi San Can't Communicate Season 2](https://anilist.co/anime/142984/Komisan-wa-Komyushou-desu-2/) | 🌟 |
-
+| [Kiznaiver](https://anilist.co/anime/21421/Kiznaiver/) | 🌟 |
 
 ### L
 
