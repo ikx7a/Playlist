@@ -224,7 +224,10 @@
 | [Tales of Zestiria the Cross 2nd Season](https://anilist.co/anime/97645/Tales-of-Zestiria-the-Cross-2/) | |
 | [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/) ||
 | [Tower of God](https://anilist.co/anime/115230/Kami-no-Tou-Tower-of-God/) | 🌟 |
-| [The Misfit of Demon King Academy](https://anilist.co/anime/112301/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou/) | 🌟 |
+| [The Misfit of Demon King Academy I](https://anilist.co/anime/112301/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou/) | 🌟 |
+| [The Misfit of Demon King Academy II](https://anilist.co/anime/130588/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/) ||
+| [The Hidden Dungeon Only I Can Enter](https://anilist.co/anime/118375/Ore-dake-Haireru-Kakushi-Dungeon/) ||
+
 
 ### U
 
@@ -271,7 +274,7 @@
 
 <div align="center">
 
- <sub>Last Update 20 February 2023
+ <sub>Last Update 23 February 2023
  </sub>
 
 </div>
