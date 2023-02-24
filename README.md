@@ -227,6 +227,7 @@
 | [The Misfit of Demon King Academy I](https://anilist.co/anime/112301/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou/) | 🌟 |
 | [The Misfit of Demon King Academy II](https://anilist.co/anime/130588/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/) ||
 | [The Hidden Dungeon Only I Can Enter](https://anilist.co/anime/118375/Ore-dake-Haireru-Kakushi-Dungeon/) ||
+| [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/anime/142074/Otomege-Sekai-wa-Mob-ni-Kibishii-Sekai-desu/) ||
 
 
 ### U
@@ -274,7 +275,7 @@
 
 <div align="center">
 
- <sub>Last Update 23 February 2023
+ <sub>Last Update 24 February 2023
  </sub>
 
 </div>
