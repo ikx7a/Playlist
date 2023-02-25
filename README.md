@@ -228,6 +228,7 @@
 | [The Misfit of Demon King Academy II](https://anilist.co/anime/130588/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/) ||
 | [The Hidden Dungeon Only I Can Enter](https://anilist.co/anime/118375/Ore-dake-Haireru-Kakushi-Dungeon/) ||
 | [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/anime/142074/Otomege-Sekai-wa-Mob-ni-Kibishii-Sekai-desu/) ||
+| [The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat](https://anilist.co/anime/129898/Sekai-Saikou-no-Ansatsusha-Isekai-Kizoku-ni-Tensei-suru/) ||
 
 
 ### U
