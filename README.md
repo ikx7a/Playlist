@@ -91,7 +91,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [Hyouka](https://anilist.co/anime/12189/Hyouka/) | |
 | [Hello World](https://anilist.co/anime/106240/HELLO-WORLD/) | |
-
+| [Hundred](https://anilist.co/anime/21362/Hundred) ||
 
 ### I
 
@@ -275,7 +275,7 @@
 
 <div align="center">
 
- <sub>Last Update 24 February 2023
+ <sub>Last Update 25 February 2023
  </sub>
 
 </div>
