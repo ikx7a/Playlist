@@ -239,7 +239,7 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| []() | |
+| [Uzaki-chan Wants to Hang Out!](https://anilist.co/anime/115113/Uzakichan-wa-Asobitai/) | |
 
 
 ### V
