@@ -233,6 +233,7 @@
 | [The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat](https://anilist.co/anime/129898/Sekai-Saikou-no-Ansatsusha-Isekai-Kizoku-ni-Tensei-suru/) ||
 | [The Asterisk War](https://anilist.co/anime/21131/Gakusen-Toshi-Asterisk/) ||
 | [The Asterisk War Season 2](https://anilist.co/anime/21390/Gakusen-Toshi-Asterisk-2/) ||
+| [Tokyo Ravens](https://anilist.co/anime/16011/Tokyo-Ravens/) ||
 
 ### U
 
