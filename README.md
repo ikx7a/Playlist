@@ -145,6 +145,8 @@
 | [Noragami](https://anilist.co/anime/20447/Noragami/) | |
 | [Noragami Aragoto](https://anilist.co/anime/21128/Noragami-Aragoto/) | |
 | [Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World](https://anilist.co/anime/137909/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/) | |
+| [Noblesse](https://anilist.co/anime/116005/NOBLESSE/) ||
+
 
 ### O
 
