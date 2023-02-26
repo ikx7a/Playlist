@@ -229,7 +229,8 @@
 | [The Hidden Dungeon Only I Can Enter](https://anilist.co/anime/118375/Ore-dake-Haireru-Kakushi-Dungeon/) ||
 | [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/anime/142074/Otomege-Sekai-wa-Mob-ni-Kibishii-Sekai-desu/) ||
 | [The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat](https://anilist.co/anime/129898/Sekai-Saikou-no-Ansatsusha-Isekai-Kizoku-ni-Tensei-suru/) ||
-
+| [The Asterisk War](https://anilist.co/anime/21131/Gakusen-Toshi-Asterisk/) ||
+| [The Asterisk War Season 2](https://anilist.co/anime/21390/Gakusen-Toshi-Asterisk-2/) ||
 
 ### U
 
@@ -276,7 +277,7 @@
 
 <div align="center">
 
- <sub>Last Update 25 February 2023
+ <sub>Last Update 26 February 2023
  </sub>
 
 </div>
