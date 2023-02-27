@@ -240,7 +240,7 @@
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
 | [Uzaki-chan Wants to Hang Out!](https://anilist.co/anime/115113/Uzakichan-wa-Asobitai/) | |
-
+| [Unbreakable Machine-Doll](https://anilist.co/anime/17247/MachineDoll-wa-Kizutsukanai/) ||
 
 ### V
 
