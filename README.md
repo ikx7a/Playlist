@@ -38,7 +38,7 @@
 | [Blue Spring Ride](https://anilist.co/anime/20596/Ao-Haru-Ride/) | |
 | [Blue Lock](https://anilist.co/anime/137822/Blue-Lock/) | |
 | [Buddy Daddies](https://anilist.co/anime/155907/Buddy-Daddies) ||
-
+| [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479/Itai-no-wa-Iya-nano-de-Bougyoryoku-ni-Kyokufuri-Shitai-to-Omoimasu/) ||
 
 ### C
 
@@ -100,7 +100,7 @@
 | [I Want to Eat Your Pancreas](https://anilist.co/anime/99750/Kimi-no-Suizou-wo-Tabetai/) | ❤️ |
 | [In/Spectre](https://anilist.co/anime/107201/Kyokou-Suiri/) | |
 | [I'm Quitting Heroingl](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
-
+| [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815/Noumin-Kanren-no-Skill-Bakka-Agetetara-Naze-ka-Tsuyoku-Natta) ||
 
 ### J
 
@@ -280,7 +280,7 @@
 
 <div align="center">
 
- <sub>Last Update 27 February 2023
+ <sub>Last Update 28 February 2023
  </sub>
 
 </div>
