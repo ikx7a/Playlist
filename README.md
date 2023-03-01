@@ -236,6 +236,8 @@
 | [The Asterisk War](https://anilist.co/anime/21131/Gakusen-Toshi-Asterisk/) ||
 | [The Asterisk War Season 2](https://anilist.co/anime/21390/Gakusen-Toshi-Asterisk-2/) ||
 | [Tokyo Ravens](https://anilist.co/anime/16011/Tokyo-Ravens/) ||
+| [The Day I Became a God](https://anilist.co/anime/118419/Kamisama-ni-Natta-Hi/) ||
+
 
 ### U
 
