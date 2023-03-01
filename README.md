@@ -247,7 +247,7 @@
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
 | [Vermeil in Gold](https://anilist.co/anime/146210/Kinsou-no-Vermeil-Gakeppuchi-Majutsushi-wa-Saikyou-no-Yakusai-to-Mahou-Sekai-wo-Tsuki-Susumu/) | |
-
+| [Vinland Saga](https://anilist.co/anime/101348/VINLAND-SAGA) | 🌟 |
 
 ### W
 
