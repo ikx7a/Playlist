@@ -103,6 +103,8 @@
 | [In/Spectre](https://anilist.co/anime/107201/Kyokou-Suiri/) | |
 | [I'm Quitting Heroingl](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
 | [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815/Noumin-Kanren-no-Skill-Bakka-Agetetara-Naze-ka-Tsuyoku-Natta) ||
+| [If it's for My Daughter, I'd Even Defeat a Demon Lord](https://anilist.co/anime/107956/Uchi-no-Ko-no-Tame-Naraba-Ore-wa-Moshikashitara-Maou-mo-Taoseru-Kamo-Shirenai/) ||
+
 
 ### J
 
@@ -284,7 +286,7 @@
 
 <div align="center">
 
- <sub>Last Update 01 March 2023
+ <sub>Last Update 02 March 2023
  </sub>
 
 </div>
