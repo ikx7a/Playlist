@@ -31,6 +31,7 @@
 | [Akame ga Kill!](https://anilist.co/anime/20613/Akame-ga-Kill/) | 🌟 |
 | [Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/) ||
 | [Arknights Animation: Prelude to Dawn](https://anilist.co/anime/119080/Arknights-Anime-PVs/) ||
+| [And you thought there is never a girl online?](https://anilist.co/anime/21290/Netoge-no-Yome-wa-Onnanoko-ja-Nai-to-Omotta/) ||
 
 
 ### B
@@ -288,7 +289,7 @@
 
 <div align="center">
 
- <sub>Last Update 02 March 2023
+ <sub>Last Update 03 March 2023
  </sub>
 
 </div>
