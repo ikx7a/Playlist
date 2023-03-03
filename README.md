@@ -141,6 +141,9 @@
 | [Miss Kobayashi's Dragon Maid](https://anilist.co/anime/21776/Kobayashisan-Chi-no-Maidragon/) | |
 | [Masamune-kun's Revenge](https://anilist.co/anime/21857/Masamunekun-no-Revenge/) | |
 | [Myriad colors phantom World](https://anilist.co/anime/21306/Musaigen-no-Phantom-World/) ||
+| [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/) ||
+| [Mushoku Tensei: Jobless Reincarnation Part 2](https://anilist.co/anime/127720/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Part-2/) ||
+
 
 ### N
 
