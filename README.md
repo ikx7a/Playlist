@@ -96,6 +96,8 @@
 | [Hyouka](https://anilist.co/anime/12189/Hyouka/) | |
 | [Hello World](https://anilist.co/anime/106240/HELLO-WORLD/) | |
 | [Hundred](https://anilist.co/anime/21362/Hundred) ||
+| [Hortensia SAGA](https://anilist.co/anime/114301/Hortensia-Saga/) ||
+
 
 ### I
 
