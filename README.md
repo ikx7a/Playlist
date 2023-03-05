@@ -43,6 +43,8 @@
 | [Blue Lock](https://anilist.co/anime/137822/Blue-Lock/) | |
 | [Buddy Daddies](https://anilist.co/anime/155907/Buddy-Daddies) ||
 | [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479/Itai-no-wa-Iya-nano-de-Bougyoryoku-ni-Kyokufuri-Shitai-to-Omoimasu/) ||
+| [Banished From the Heroes' Party](https://anilist.co/anime/126213/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita/) ||
+
 
 ### C
 
