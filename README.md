@@ -87,7 +87,7 @@
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
 | [Gosick](https://anilist.co/anime/8425/GOSICK/) | |
-
+| [Goblin Slayer](https://anilist.co/anime/101165/Goblin-Slayer/) ||
 
 ### H
 
