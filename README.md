@@ -147,7 +147,7 @@
 | [Mushoku Tensei: Jobless Reincarnation Part 2](https://anilist.co/anime/127720/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Part-2/) ||
 | [Magi: The Labyrinth of Magic](https://anilist.co/anime/14513/Magi-The-labyrinth-of-magic/) | |
 | [Magi: The Kingdom of Magic Part 2](https://anilist.co/anime/18115/Magi-The-kingdom-of-magic/) | |
-
+| [Munou na Nana](https://anilist.co/anime/117343/Munou-na-Nana/) ||
 
 
 ### N
