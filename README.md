@@ -252,6 +252,7 @@
 | [The Asterisk War Season 2](https://anilist.co/anime/21390/Gakusen-Toshi-Asterisk-2/) ||
 | [Tokyo Ravens](https://anilist.co/anime/16011/Tokyo-Ravens/) ||
 | [The Day I Became a God](https://anilist.co/anime/118419/Kamisama-ni-Natta-Hi/) ||
+| [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu/) | 🌟 |
 
 
 ### U
