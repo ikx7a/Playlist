@@ -68,7 +68,7 @@
 | [Date A Live](https://anilist.co/anime/15583/Date-A-Live/) | |
 | [Date A Live II](https://anilist.co/anime/19163/Date-A-Live-II/) | |
 | [Date A Live III](https://anilist.co/anime/100722/Date-A-Live-III/) | |
-
+| [Dororo](https://anilist.co/anime/101347/Dororo/) | ❤️ |
 
 ### E
 
