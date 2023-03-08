@@ -255,6 +255,7 @@
 | [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu/) | 🌟 |
 | [The Rising of the Shield Hero](https://anilist.co/anime/99263/Tate-no-Yuusha-no-Nariagari/) | 🌟 |
 | [The Rising of the Shield Hero 2nd Season](https://anilist.co/anime/111321/Tate-no-Yuusha-no-Nariagari-Season-2/) ||
+| [Trinity Seven](https://anilist.co/anime/20631/Trinity-Seven/) ||
 
 
 ### U
@@ -302,7 +303,7 @@
 
 <div align="center">
 
- <sub>Last Update 07 March 2023
+ <sub>Last Update 08 March 2023
  </sub>
 
 </div>
