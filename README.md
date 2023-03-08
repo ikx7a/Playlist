@@ -256,7 +256,7 @@
 | [The Rising of the Shield Hero](https://anilist.co/anime/99263/Tate-no-Yuusha-no-Nariagari/) | 🌟 |
 | [The Rising of the Shield Hero 2nd Season](https://anilist.co/anime/111321/Tate-no-Yuusha-no-Nariagari-Season-2/) ||
 | [Trinity Seven](https://anilist.co/anime/20631/Trinity-Seven/) ||
-
+| [The Ancient Magus' Bride](https://anilist.co/anime/98436/Mahoutsukai-no-Yome/) ||
 
 ### U
 
