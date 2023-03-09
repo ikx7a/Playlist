@@ -182,7 +182,7 @@
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
 | [Plunderer](https://anilist.co/anime/101168/Plunderer/) | |
-
+| [Parallel World Pharmacy](https://anilist.co/anime/136707/Isekai-Yakkyoku/) ||
 
 ### Q
 
