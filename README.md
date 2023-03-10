@@ -175,6 +175,7 @@
 | [Overlord II](https://anilist.co/anime/98437/Overlord-II/) | |
 | [Overlord III](https://anilist.co/anime/101474/Overlord-III/) | |
 | [Overlord IV](https://anilist.co/anime/133844/Overlord-IV/) | |
+| [Our Last Crusade or the Rise of a New World](https://anilist.co/anime/112667/Kimi-to-Boku-no-Saigo-no-Senjou-Aruiwa-Sekai-ga-Hajimaru-Seisen/) ||
 
 
 ### P
