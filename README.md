@@ -150,7 +150,8 @@
 | [Magi: The Labyrinth of Magic](https://anilist.co/anime/14513/Magi-The-labyrinth-of-magic/) | |
 | [Magi: The Kingdom of Magic Part 2](https://anilist.co/anime/18115/Magi-The-kingdom-of-magic/) | |
 | [Munou na Nana](https://anilist.co/anime/117343/Munou-na-Nana/) ||
-
+| [My Next Life as a Villainess: All Routes Lead to Doom!](https://anilist.co/anime/104647/Otome-Game-no-Hametsu-Flag-shika-Nai-Akuyaku-Reijou-ni-Tensei-shiteshimatta/) | |
+| [My Next Life as a Villainess: All Routes Lead to Doom! 2nd Season](https://anilist.co/anime/120209/Otome-Game-no-Hametsu-Flag-shika-Nai-Akuyaku-Reijou-ni-Tensei-shiteshimatta-X/) ||
 
 ### N
 
