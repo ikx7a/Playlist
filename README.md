@@ -99,6 +99,7 @@
 | [Hello World](https://anilist.co/anime/106240/HELLO-WORLD/) | |
 | [Hundred](https://anilist.co/anime/21362/Hundred) ||
 | [Hortensia SAGA](https://anilist.co/anime/114301/Hortensia-Saga/) ||
+| [High School of the Dead](https://anilist.co/anime/8074/Gakuen-Mokushiroku-HIGHSCHOOL-OF-THE-DEAD/) ||
 
 
 ### I
@@ -309,7 +310,7 @@
 <div align="center">
 
 
- <sub>Last Update 10 March 2023
+ <sub>Last Update 11 March 2023
  </sub>
 
 </div>
