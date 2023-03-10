@@ -307,7 +307,6 @@
 
 <div align="center">
 
-[<img src="https://github.com/ikx7a/Playlist/blob/main/assets/mba79.gif">](https://mangareader.to)
 
  <sub>Last Update 10 March 2023
  </sub>
