@@ -282,7 +282,7 @@
 | [Wandering Witch: The Journey of Elaina](https://anilist.co/anime/112609/Majo-no-Tabitabi/) | |
 | [Weathering With You](https://anilist.co/anime/106286/Tenki-no-Ko/) | ❤️ |
 | [Wise Man's Grandchild](https://anilist.co/anime/100112/Kenja-no-Mago/) | |
-
+| [World Break: Aria of Curse for a Holy Swordsman](https://anilist.co/anime/20627/Seiken-Tsukai-no-World-Break/) ||
 
 ### X
 
@@ -306,7 +306,7 @@
 
 <div align="center">
 
- <sub>Last Update 08 March 2023
+ <sub>Last Update 10 March 2023
  </sub>
 
 </div>
