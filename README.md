@@ -107,7 +107,7 @@
 | :-------------------------------------------------------------------: | :-------: |
 | [I Want to Eat Your Pancreas](https://anilist.co/anime/99750/Kimi-no-Suizou-wo-Tabetai/) | ❤️ |
 | [In/Spectre](https://anilist.co/anime/107201/Kyokou-Suiri/) | |
-| [I'm Quitting Heroingl](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
+| [I'm Quitting Heroing](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
 | [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815/Noumin-Kanren-no-Skill-Bakka-Agetetara-Naze-ka-Tsuyoku-Natta) ||
 | [If it's for My Daughter, I'd Even Defeat a Demon Lord](https://anilist.co/anime/107956/Uchi-no-Ko-no-Tame-Naraba-Ore-wa-Moshikashitara-Maou-mo-Taoseru-Kamo-Shirenai/) ||
 
@@ -195,8 +195,8 @@
 
 | Name | Favourite |
 | :-------------------------------------------------------------------: | :-------: |
-| [Rent-a-Girlfriend](https://anilist.co/anime/113813/Kanojo-Okarishimasu/) |  |
-| [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410/Kanojo-Okarishimasu-2nd-Season/) ||
+| [Rent AGirlfriend](https://anilist.co/anime/113813/Kanojo-Okarishimasu/) |  |
+| [Rent A Girlfriend Season 2](https://anilist.co/anime/124410/Kanojo-Okarishimasu-2nd-Season/) ||
 
 
 ### S
