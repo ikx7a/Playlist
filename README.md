@@ -100,7 +100,7 @@
 | [Hundred](https://anilist.co/anime/21362/Hundred) ||
 | [Hortensia SAGA](https://anilist.co/anime/114301/Hortensia-Saga/) ||
 | [High School of the Dead](https://anilist.co/anime/8074/Gakuen-Mokushiroku-HIGHSCHOOL-OF-THE-DEAD/) ||
-
+| [Horimiya](https://anilist.co/anime/124080/Horimiya/) | 🌟 |
 
 ### I
 
