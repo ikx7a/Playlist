@@ -263,7 +263,7 @@
 | [The Ancient Magus' Bride](https://anilist.co/anime/98436/Mahoutsukai-no-Yome/) ||
 | [Tokyo Ghoul](https://anilist.co/anime/20605/Tokyo-Ghoul/) | 🌟 |
 | [Tokyo Ghoul √A](https://anilist.co/anime/20850/Tokyo-Ghoul-A/) | ❤️ |
-
+| [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/) ||
 
 ### U
 
