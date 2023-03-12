@@ -111,7 +111,7 @@
 | [I'm Quitting Heroing](https://anilist.co/anime/140457/Yuusha-Yamemasu/) ||
 | [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815/Noumin-Kanren-no-Skill-Bakka-Agetetara-Naze-ka-Tsuyoku-Natta) ||
 | [If it's for My Daughter, I'd Even Defeat a Demon Lord](https://anilist.co/anime/107956/Uchi-no-Ko-no-Tame-Naraba-Ore-wa-Moshikashitara-Maou-mo-Taoseru-Kamo-Shirenai/) ||
-
+| [Infinite Stratos](https://anilist.co/anime/9041/IS-Infinite-Stratos/) ||
 
 ### J
 
@@ -128,6 +128,7 @@
 | [Komi San Can't Communicate](https://anilist.co/anime/133965/Komisan-wa-Komyushou-desu/) | 🌟 |
 | [Komi San Can't Communicate Season 2](https://anilist.co/anime/142984/Komisan-wa-Komyushou-desu-2/) | 🌟 |
 | [Kiznaiver](https://anilist.co/anime/21421/Kiznaiver/) | 🌟 |
+
 
 ### L
 
@@ -310,7 +311,7 @@
 <div align="center">
 
 
- <sub>Last Update 11 March 2023
+ <sub>Last Update 12 March 2023
  </sub>
 
 </div>
