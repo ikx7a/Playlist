@@ -270,6 +270,8 @@
 | [Tokyo Ghoul](https://anilist.co/anime/20605/Tokyo-Ghoul/) | 🌟 |
 | [Tokyo Ghoul √A](https://anilist.co/anime/20850/Tokyo-Ghoul-A/) | ❤️ |
 | [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/) ||
+| [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/) | 🌟 |
+
 
 ### U
 
