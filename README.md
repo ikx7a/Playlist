@@ -115,6 +115,8 @@
 | [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815/Noumin-Kanren-no-Skill-Bakka-Agetetara-Naze-ka-Tsuyoku-Natta) ||
 | [If it's for My Daughter, I'd Even Defeat a Demon Lord](https://anilist.co/anime/107956/Uchi-no-Ko-no-Tame-Naraba-Ore-wa-Moshikashitara-Maou-mo-Taoseru-Kamo-Shirenai/) ||
 | [Infinite Stratos](https://anilist.co/anime/9041/IS-Infinite-Stratos/) ||
+| [I've Always Liked You](https://anilist.co/anime/21296/Zutto-Mae-kara-Suki-deshita-Kokuhaku-Jikkou-Iinkai/) ||
+
 
 ### J
 
