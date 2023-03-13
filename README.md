@@ -57,6 +57,7 @@
 | [Charlotte](https://anilist.co/anime/20997/Charlotte/) | 🌟 |
 | [Chivalry of a Failed Knight](https://anilist.co/anime/21092/Rakudai-Kishi-no-Cavalry/) | |
 | [Chaika -The Coffin Princess](https://anilist.co/anime/20462/Hitsugi-no-Chaika/) ||
+| [CHOYOYU!: High School Prodigies Have It Easy Even in Another World!](https://anilist.co/anime/108388/Choujin-Koukouseitachi-wa-Isekai-demo-Yoyuu-de-Ikinuku-you-desu/) ||
 
 ### D
 
