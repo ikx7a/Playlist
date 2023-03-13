@@ -68,7 +68,10 @@
 | [Date A Live](https://anilist.co/anime/15583/Date-A-Live/) | |
 | [Date A Live II](https://anilist.co/anime/19163/Date-A-Live-II/) | |
 | [Date A Live III](https://anilist.co/anime/100722/Date-A-Live-III/) | |
-| [Dororo](https://anilist.co/anime/101347/Dororo/) | ❤️ |
+| [Dororo](https://anilist.co/anime/101347/Dororo/) | 🌟 |
+| [Don't Toy with Me, Miss Nagatoro](https://anilist.co/anime/120697/Ijiranaide-Nagatorosan/) ||
+| [Don't Toy with Me, Miss Nagatoro 2nd Season](https://anilist.co/anime/140596/Ijiranaide-Nagatorosan-2nd-Attack/) ||
+
 
 ### E
 
@@ -311,7 +314,7 @@
 <div align="center">
 
 
- <sub>Last Update 12 March 2023
+ <sub>Last Update 13 March 2023
  </sub>
 
 </div>
